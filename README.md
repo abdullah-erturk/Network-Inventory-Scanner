@@ -12,7 +12,7 @@
 [![made-for-windows](https://img.shields.io/badge/Made%20for-Windows-00A4E3.svg?style=flat&logo=microsoft)](https://www.microsoft.com/)
 [![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup)
 
-![sample](https://raw.githubusercontent.com/abdullah-erturk/files/refs/heads/main/previev.jpg?token=GHSAT0AAAAAADXJPYRSFWZNV3YYFD2VHL5E2NOQ45Q)
+![sample](https://raw.githubusercontent.com/abdullah-erturk/Network-Inventory-Scanner/refs/heads/main/previev.jpg?token=GHSAT0AAAAAADXJPYRSPD7VYBVFSUHF4HUU2NOQ7SA)
 
 </div>
 
