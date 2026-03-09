@@ -102,8 +102,8 @@ Tarama tamamlandıktan sonra `S` tuşuna basarak sonuçları kaydedebilirsiniz:
 # Çift tıkla çalıştır — adaptör seçim menüsü açılır
 
 # Ya da hedef doğrudan argüman olarak verilebilir:
-netscan.bat 192.168.1.0/24
-netscan.bat 10.0.0.15
+192.168.1.0/24
+10.0.0.15
 ```
 
 **Gereksinimler:** Windows 7+ · PowerShell 5.1+ · Yönetici yetkisi (ARP/NetBIOS için önerilir)
@@ -211,8 +211,8 @@ After scanning, press `S` to save results:
 # Double-click to run — adapter selection menu appears
 
 # Or pass the target directly as an argument:
-netscan.bat 192.168.1.0/24
-netscan.bat 10.0.0.15
+192.168.1.0/24
+10.0.0.15
 ```
 
 **Requirements:** Windows 7+ · PowerShell 5.1+ · Administrator rights (recommended for ARP/NetBIOS)
