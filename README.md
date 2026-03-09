@@ -6,6 +6,10 @@
 
 **Ağ Envanter Tarayıcı / Network Inventory Scanner**
 
+Fast parallel network scanner for Windows — MAC vendor, OS detection, risk analysis, HTML report
+
+Windows için hızlı paralel ağ tarayıcısı — MAC üreticisi, işletim sistemi tespiti, risk analizi, HTML raporu
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Tech-Batch_&_PowerShell-blue?style=for-the-badge)
 
