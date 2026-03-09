@@ -8,6 +8,8 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Tech-Batch_&_PowerShell-blue?style=for-the-badge)
+
+[![made-for-windows](https://img.shields.io/badge/Made%20for-Windows-00A4E3.svg?style=flat&logo=microsoft)](https://www.microsoft.com/)
 [![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup)
 
 ![sample](https://github.com/abdullah-erturk/Network-Inventory-Scanner/blob/main/previev.jpg)
