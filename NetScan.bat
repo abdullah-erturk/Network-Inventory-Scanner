@@ -322,7 +322,7 @@ Clear-Host
 Write-Host
 Write-Host "	github.com/abdullah-erturk" -ForegroundColor Yellow
 Write-Host
-Write-Host "	erturk.netlify.app" -ForegroundColor Yellow
+Write-Host "	erturk-dev.netlify.app" -ForegroundColor Yellow
 Write-Host "`n=========================================" -ForegroundColor Cyan
 Write-Host "         Network Inventory Scanner       " -ForegroundColor White -BackgroundColor Blue
 Write-Host "=========================================`n" -ForegroundColor Cyan
